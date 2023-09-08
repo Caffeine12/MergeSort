@@ -1,1 +1,1 @@
-## Merge Sort Algorithm Implemented 
+## Merge Sort Algorithm Implemented in Java
